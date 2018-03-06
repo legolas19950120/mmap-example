@@ -1,11 +1,11 @@
 # mmap-example
 It's an example of mmap function.
 
-#compile:
+# compile:
 
 make
 
-#run:
+# run:
 
 ./mmap_a
 
